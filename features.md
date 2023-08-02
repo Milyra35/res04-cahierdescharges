@@ -1,9 +1,8 @@
-Features : 
+Features :
 
-- Présenter l'association                                           -> Utilisateur
-- Informer de l'agenda et le programme des réunions annuelles       -> Utilisateur
-- Fournir des contenus pédagogiques (diapo des réunions, articles)  -> Utilisateur
-- Mettre en avant les partenaires qui financent                     -> Utilisateur
-- Permettre d'accéder à l'adhésion/cotisation                       -> Utilisateur
-- Formulaire de contact                                             -> Utilisateur
-- Back-Office                                                       -> Admin
+- Back-Office 
+- Inscription / Connexion 
+- Voir la progression du personnage dans différents domaines
+- Trier ce qu'on veut voir
+- Ajouter son fichier de sauvegarde pour récupérer ses données
+- Voir les différents personnages, ce qu'ils aiment et leur planning
