@@ -6,9 +6,10 @@ Goals :
 - Gestion de l'authentification de l'admin, et faire en sorte que ce soit caché sur le site "public"
 - Implémenter une technique de commentaires au niveau des articles afin de pouvoir échanger sur un sujet (à voir)
 - Pouvoir contacter l'administrateur du site via un formulaire de contact (et donc envoyer un mail à l'administrateur du site)
+- Peut-être ajouter une fonctionnalité de newsletter pour alerter les utilisateurs d'un nouvel article
 
 
-- Crypter les données des utilisateurs quand il envoie un message à l'administrateur
+- Crypter les données des utilisateurs quand ils envoient un message à l'administrateur
 - Crypter les informations de connexion de l'administrateur
 - Mot de passe : obligation d'avoir un mot de passe robuste (+ de 6 caractères, avec une majuscule minimum, un chiffre et un caractère spécial)
 - Politique de cookies : 
