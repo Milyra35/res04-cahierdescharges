@@ -1,4 +1,4 @@
-Articles :
+Articles (fonctionnalités) :
 
 - Dans l'article :
     Une ou des images, du texte descriptif, l'auteur, le jour et la date de publication
@@ -18,4 +18,5 @@ Contraintes :
 - Commentaires 
     Si un système de commentaire est mis en place, il faut penser à une modération des commentaires et donc ajouter la possibilité de les supprimer, modifier. Egalement prévoir un filtre pour interdire certains termes
 
-- 
+- Propriété intellectuelle
+    Bien respecter les lois sur la propriété intellectuelle et créditer l'auteur de chaque article scientifique et d'où vient les ressources
