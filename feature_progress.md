@@ -7,9 +7,9 @@ Voir la progression du personnage :
 - Progression des compétences
     Afficher les compétences de minage, agriculture, combat, pêche, récolte
 - Relation avec les villageois
-    Afficher le niveau d'amitié avec les villageois, si le joueur est marié ou non, si il a des enfants, si JojaMart a été choisi
+    Afficher le niveau d'amitié avec les villageois, si le joueur est marié ou non, si il a des enfants
 - Lieux découverts
-    Dire à quel niveau de la mine on est, si on a débloqué l'accès à l'île, mine du désert ou non 
+    Dire à quel niveau de la mine on est, si on a débloqué l'accès à l'île, mine du désert ou non, si JojaMart a été choisi
 - Musée
     Préciser quels objets du musée on a placé et ce qu'il manque
 - Livres

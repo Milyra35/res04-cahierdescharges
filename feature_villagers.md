@@ -7,5 +7,4 @@ Villageois :
 
 Contraintes :
 
-- Avoir l'API qui me permet de récupérer les données des villageois
-- 
+- Créer un fichier JSON qui me permet de récupérer les données des villageois
