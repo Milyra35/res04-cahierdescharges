@@ -10,5 +10,5 @@ Upload saved file :
 
 Contraintes :
 
-- Limiter la taille du fichier ?
+- Limiter la taille du fichier à 10M
 - 

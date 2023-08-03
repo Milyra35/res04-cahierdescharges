@@ -1,7 +1,7 @@
 Incription / Connexion / Déconnexion :
 
 - Formulaire d'inscription
-    Afficher un formulaire avec les champs requis (username, email, password), vérifier que le mail n'a pas déjà été utilisé et que le mot de passe est assez sécurisé (minimum 6 caractères, une majuscule, un chiffre et un caractère spécial)
+    Afficher un formulaire avec les champs requis (username, email, password), vérifier que le mail n'a pas déjà été utilisé et que le mot de passe est assez sécurisé (minimum 8 caractères, une majuscule, un chiffre et un caractère spécial)
     Valider les données saisies par l'utilisateur afin de s'assurer que les champs soient correctement remplis
     Hacher les mots de passe dans la base de données afin de les sécuriser
 - Connexion

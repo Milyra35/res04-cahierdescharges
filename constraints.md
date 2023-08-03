@@ -7,7 +7,7 @@ Contraintes :
     Sécuriser les données des utilisateurs et la connexion de la partie Admin
 
 - Gestion du responsive
-    Site adapté pour les ordinateurs, tablette et mobile (la majorité des joueurs jouent sur PC donc le faire en desktop first)
+    Site adapté pour les ordinateurs, tablettes et mobiles (la majorité des joueurs-ses jouent sur PC donc le faire en desktop first)
 
 - Accessibilité 
     Accessible au minimum pour les handicaps visuels tels que le daltonisme (aussi grossir la police d'écriture, peut-être fonctionnalité pour grossir la police avec un bouton)
@@ -24,10 +24,12 @@ Contraintes :
 - Tout sera en MVC (Model-Vue-Controller) et en POO (Programmation Orientée Objet) pour le Javascript et le PHP
 
 - Fichier de sauvergarde .XML
-    Récupérer le fichier et pouvoir l'analyser via une technologie pour ensuite l'envoyer dans la base de données
+    Récupérer le fichier et pouvoir l'analyser via une technologie pour ensuite l'envoyer dans la base de données (xml_parse et class XMLParser)
 
 - Respect des droits d'auteur
-    S'assurer que les images utilisées, logo ou autre contenus soient bien crédités
+    S'assurer que les images utilisées, logo ou autre contenu soient bien crédités
 
 - Protection contre injection SQL
     Utiliser des requêtes paramétrées pour éviter les injections SQL
+
+- Interface pixellisée

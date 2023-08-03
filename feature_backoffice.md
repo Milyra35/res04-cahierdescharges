@@ -12,9 +12,9 @@ Back-Office :
 Contraintes :
 
 - Authentification sécurisée
-    Le back-office doit être protégé par un système d'authentification sécurisé pour que seuls l'admin puisse y accéder (gestion des rôles des utilisateurs)
+    Le back-office doit être protégé par un système d'authentification sécurisé pour que seul l'admin puisse y accéder (gestion des rôles des utilisateurs)
 - Protection des données
-    Assurer la confidentialité des données stockées de l'utilisateur (MDP crypté par exemple)
+    Assurer la confidentialité des données stockées de l'utilisateur (MDP chiffré par exemple)
 - Sécurité 
     Pas d'injection SQL, protéger XSS, protocole HTTPS
 - Interface
