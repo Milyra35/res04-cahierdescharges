@@ -15,6 +15,16 @@ Arborescence :
 - Mentions légales              -> route: /legal-notices
 - Crédits                       -> route: /credits
 
+Pages accessible pour l'utilisateur connexté 
+- Accueil
+- Connexion
+- Inscription
+- Tous les PNJ
+- PNJ spécifique
+- Politique de confidentialité  
+- Mentions légales              
+- Crédits                       
+
 Pages accessibles pour l'utilisateur non connecté
 
 - Accueil (avec tuto et partie pour upload le fichier seulement si l'utilisateur est connecté)
